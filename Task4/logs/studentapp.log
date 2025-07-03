@@ -1,0 +1,2 @@
+Jul 03, 2025 8:04:48 PM service.StudentServiceImpl addStudent
+INFO: Student added: Student [id=10, name=Tharun, email=Tharun@gmail.com, subject=Kannada]
